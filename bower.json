@@ -20,6 +20,8 @@
     "adf-widget-weather": "^0.2.0",
     "express": "^4.16.2",
     "bootstrap": "^3.3.7",
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "google-chart": "^2.0.0",
+    "adf-widget-github": "^0.6.1"
   }
 }

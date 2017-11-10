@@ -1,4 +1,4 @@
-angular.module('mainApp', ['adf', 'adf.widget.clock', 'adf.widget.weather', 'adf.widget.queues-widget', 'adf.widget.numbers-widget'])
+angular.module('mainApp', ['adf', 'adf.widget.clock', 'adf.widget.weather', 'adf.widget.queues-widget', 'adf.widget.numbers-widget', 'adf.widget.github'])
     .config(function(dashboardProvider){
         dashboardProvider
             .structure('6-6', {
